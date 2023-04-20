@@ -1,1 +1,2 @@
 toto je remotre file
+ale dopisal som lokalny koment iba pre branchu
